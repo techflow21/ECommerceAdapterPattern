@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\bin\Debug\net6.0\ECommerceAdapterPattern.exe
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\bin\Debug\net6.0\ECommerceAdapterPattern.deps.json
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\bin\Debug\net6.0\ECommerceAdapterPattern.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\bin\Debug\net6.0\ECommerceAdapterPattern.dll
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\bin\Debug\net6.0\ECommerceAdapterPattern.pdb
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.dll
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\refint\ECommerceAdapterPattern.dll
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.pdb
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ECommerceAdapterPattern.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\ECommerceAdapterPattern\ECommerceAdapterPattern\obj\Debug\net6.0\ref\ECommerceAdapterPattern.dll
