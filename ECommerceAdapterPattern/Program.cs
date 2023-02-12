@@ -121,10 +121,7 @@
             {
                 Console.WriteLine("Select operation:");
 
-                Console.WriteLine("1. Get Customers");
-                Console.WriteLine("2. Add Customer");
-                Console.WriteLine("3. Remove Customer");
-                Console.WriteLine("4. Update Customer");
+                Console.WriteLine("1. Get Customers\n2. Add Customer\n3. Remove Customer\n4. Update Customer");
                 Console.WriteLine("5. Get Orders");
                 Console.WriteLine("6. Add Order");
                 Console.WriteLine("7. Remove Order");
