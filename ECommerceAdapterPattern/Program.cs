@@ -121,14 +121,10 @@
             {
                 Console.WriteLine("Select operation:");
 
-                Console.WriteLine("1. Get Customers\n2. Add Customer\n3. Remove Customer\n4. Update Customer");
-                Console.WriteLine("5. Get Orders");
-                Console.WriteLine("6. Add Order");
-                Console.WriteLine("7. Remove Order");
-                Console.WriteLine("8. Update Order");
-                Console.WriteLine("9. Exit");
+                Console.WriteLine("1. Get Customers\n2. Add Customer\n3. Remove Customer\n4. Update Customer\n5. Get Orders\n6. Add Order\n7. Remove Order\n8. Update Order\n9. Exit");
 
                 Console.Write("Enter your choice: ");
+
                 int choice = 0;
                 try
                 {
@@ -136,7 +132,7 @@
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("Invalid input. Try again.");
+                    Console.WriteLine("\nInvalid input. Try again.");
                     continue;
                 }
 
@@ -146,7 +142,7 @@
                         ecommerce.GetCustomers();
                         break;
                     case 2:
-                        Console.Write("Enter customer name: ");
+                        Console.Write("\nEnter customer name: ");
                         string name = Console.ReadLine();
                         Console.Write("Enter customer age: ");
                         int age = 0;
