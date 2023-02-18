@@ -1,5 +1,4 @@
-﻿namespace ECommerceAdapterPattern
-{
+﻿namespace ECommerceAdapterPattern;
     interface ICustomer
     {
         void GetCustomers();
@@ -241,5 +240,5 @@
             }
         }
     }
-}
+
 
