@@ -120,7 +120,7 @@
             {
                 Console.WriteLine("Select operation:");
 
-                Console.WriteLine("1. Get Customers\n2. Add Customer\n3. Remove Customer\n4. Update Customer\n5. Get Orders\n6. Add Order\n7. Remove Order\n8. Update Order\n9. Exit");
+                Console.WriteLine("1. Get Customers\n2. Add Customer\n3. Remove Customer\n4. Update Customer\n5. Get Orders\n6. Add Order\n7. Remove Order\n8. Update Order\n9. Exit ");
 
                 Console.Write("Enter your choice: ");
 
@@ -227,7 +227,7 @@
                 }
                 Console.WriteLine();
                 Console.Write("Do you want to try again? (y/n) ");
-                string response = Console.ReadLine();
+                string response = Console.ReadLine().ToLower();
 
                 if (response == "y")
                 {
