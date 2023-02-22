@@ -132,7 +132,7 @@
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("\nInvalid input. Try again.");
+                    Console.WriteLine("\nInvalid input. Try again...");
                     continue;
                 }
 
