@@ -206,6 +206,7 @@
                     case 8:
                         Console.Write("Enter product name: ");
                         product = Console.ReadLine();
+
                         Console.Write("Enter quantity: ");
                         quantity = 0;
                         try
