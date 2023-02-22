@@ -229,6 +229,7 @@
                 }
                 Console.WriteLine();
                 Console.Write("Do you want to try again? (y/n) ");
+
                 string response = Console.ReadLine().ToLower();
 
                 if (response == "y")
