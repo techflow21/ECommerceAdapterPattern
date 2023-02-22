@@ -114,6 +114,7 @@
         static void Main(string[] args)
         {
             ECommerceSystem ecommerce = new ECommerceSystem();
+
             bool repeat = true;
             while (repeat)
             {
