@@ -159,6 +159,7 @@
                     case 3:
                         Console.Write("Enter customer name: ");
                         name = Console.ReadLine();
+
                         ecommerce.RemoveCustomer(name);
                         break;
                     case 4:
